@@ -1,0 +1,11 @@
+.Nav-dropdown-menu{
+    position: absolute;
+    top: 2.80rem;
+    right: 0rem;
+    background-color: gray;
+    border-bottom-left-radius: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    width: 180px;
+    margin-right: 2px;
+}
